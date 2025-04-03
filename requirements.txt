@@ -1,0 +1,8 @@
+streamlit
+openai
+beautifulsoup4
+requests
+snscrape
+pandas
+pdfkit
+xhtml2pdf
